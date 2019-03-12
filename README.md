@@ -5,4 +5,4 @@ Project proposal can be viewed [HERE](https://docs.google.com/document/d/1GNW5EB
 
 Final presentation can be viewed [HERE](https://docs.google.com/presentation/d/11LIP81SAIYE_vDEbmy0Ffq1gUQE2RwP6vvh0Q2jQDt4/edit?usp=sharing).
 
-Final Analysis document can be viewed [HERE](https://docs.google.com/document/d/1azehLEiI-S2TYoOlkxLmXrI-YYCvox6CC1PjlegWQQM/edit?usp=sharing).
+Final Analysis document can be viewed [HERE](https://docs.google.com/document/d/e/2PACX-1vRXavhcSHbN1bu-LGY-gvZzmsdP_nMFKm0JIDkfi_iWA_uH2j2EUloP4lpiOkP6LcJvnGOJdcYhtU0i/pub).
