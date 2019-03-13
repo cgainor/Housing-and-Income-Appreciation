@@ -1,6 +1,6 @@
 # Housing-and-Income-Appreciation
 ### Comparison and Assessment of Housing and Income Appreciation Over The Past Decade
-Team Members: Courtney Gainor, Irwin Bahande Mier, Christopher Reutz, Kim Rones
+#### Team Members: Courtney Gainor, Irwin Bahande Mier, Christopher Reutz, Kim Rones
 
 Project Proposal can be viewed [HERE](https://docs.google.com/document/d/1GNW5EBcAHEaGKspro3OUZQ_s-xoYbFBdVwfM274qYFE/edit?usp=sharing).
 
